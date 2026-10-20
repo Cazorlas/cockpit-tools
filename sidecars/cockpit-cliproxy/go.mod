@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/gin-gonic/gin v1.10.1
 	github.com/gorilla/websocket v1.5.3
-	github.com/klauspost/compress v1.17.4
+	github.com/klauspost/compress v1.18.7
 	github.com/router-for-me/CLIProxyAPI/v7 v7.2.155
 	github.com/tidwall/gjson v1.18.0
 	github.com/tidwall/sjson v1.2.5
